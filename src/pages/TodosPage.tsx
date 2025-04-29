@@ -9,6 +9,17 @@ import { FilterStatus } from '../features/todos/types';
 /**
  * Page component for the Todo application
  */
+
+
+// type Props = {
+//   title: string;
+// };
+
+// const TodosPage = ({ title }: Props) => {
+//   return <h1>{title}</h1>;
+// };
+
+
 const TodosPage: React.FC = () => {
   const dispatch = useAppDispatch();
   const filteredTodos = useAppSelector(selectFilteredTodos);
