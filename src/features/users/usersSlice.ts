@@ -1,3 +1,5 @@
+// Redux state, reducers, and actions
+
 import { createSlice, createAsyncThunk, PayloadAction } from '@reduxjs/toolkit';
 import { FetchStatus, User, UsersState } from './types';
 

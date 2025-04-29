@@ -1,3 +1,5 @@
+// Redux state, reducers, and actions
+
 import { PayloadAction, createSlice } from '@reduxjs/toolkit';
 import { FilterStatus, Todo, TodosState } from './types';
 

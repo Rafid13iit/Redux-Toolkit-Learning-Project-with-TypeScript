@@ -1,3 +1,5 @@
+// TypeScript interfaces and types for the feature
+
 /**
  * Represents a single user from the API
  */

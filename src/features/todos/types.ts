@@ -1,3 +1,5 @@
+//  TypeScript interfaces and types for the features
+
 /**
  * Represents a single todo item
  */

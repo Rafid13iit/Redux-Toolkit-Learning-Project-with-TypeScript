@@ -1,3 +1,5 @@
+// Functions to access state efficiently
+
 import { createSelector } from '@reduxjs/toolkit';
 import { RootState } from '../../app/store';
 import { User } from './types';
